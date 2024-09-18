@@ -53,6 +53,31 @@ ul {
   border: #c2d89d solid 3px;
   border-radius: 10px;
   padding: 3rem;
+  font-family:'Courier New', Courier, monospace;
+}
+
+#nummerEn {
+  background-color: #f569a6;
+}
+#nummerTo{
+  background-color: #e4e426;
+}
+
+.pic-container {
+  width: 700px;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.ps3 {
+  width: 500px;
+  border: solid #736173 3px;
+  border-radius: 10px;
+}
+.ps3:hover {
+  transform: scale(1.2); /* Øk størrelse til 120% */
+  transition: transform 0.3s ease-in-out;
 }
 
 @keyframes bakgrunn {
