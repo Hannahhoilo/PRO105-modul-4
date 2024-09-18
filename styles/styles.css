@@ -49,6 +49,11 @@ ul {
   list-style-type: none;
 }
 
+.box {
+  border: #c2d89d solid 3px;
+  border-radius: 10px;
+}
+
 @keyframes bakgrunn {
   0% {
     background-color: #d17ca1;
