@@ -52,6 +52,7 @@ ul {
 .box {
   border: #c2d89d solid 3px;
   border-radius: 10px;
+  padding: 3rem;
 }
 
 @keyframes bakgrunn {
